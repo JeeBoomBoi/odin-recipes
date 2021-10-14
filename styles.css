@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(72, 39, 116);
+}
+
+h1, h2, p, ul, li, a {
+    color: wheat;
+}
+
+.lassi {
+    height: 500px; 
+    width: auto;
+}
+
+.chocolate-pudding {
+    height: 400px; 
+    width: 400px;
+}
